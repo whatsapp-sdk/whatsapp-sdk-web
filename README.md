@@ -1,6 +1,8 @@
-# whatsapp-sdk-web
+# WhatsApp-Web
 
-Email: whatsappsdk@qq.com
+### About
+
+WhatsApp-Web is a web application based on the WhatsApp-SDK-Nodejs. This application provides some simple and easy-to-use web pages for controlling many WhatsApp accounts and sending messages in batches to achieve the purpose of marketing. If you need it, please send email me: whatsappsdk@qq.com
 
 联系QQ：8O94O528（请将O替换为数字0）
 
