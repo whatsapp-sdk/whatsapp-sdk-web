@@ -1,10 +1,22 @@
 # WhatsApp-Web
 
-### About
+* 版本查看地址：https://www.whatsapp.com/android/
+* 目前支持的最新版本：2.22.21.71  android 版 
+* 更新日期：2022 年 10 月 04 日
 
-WhatsApp-Web is a web application based on the WhatsApp-SDK-Nodejs. This application provides some simple and easy-to-use web pages for controlling many WhatsApp accounts and sending messages in batches to achieve the purpose of marketing. If you need it, please send email me: whatsappsdk@qq.com
+### 关于
 
-联系QQ：8O94O528（请将O替换为数字0）
+WhatsApp-Web is a web application based on the WhatsApp-SDK-NodeJS. This application provides some simple and easy-to-use web pages for controlling many WhatsApp accounts and sending messages in batches to achieve the purpose of marketing. 
+
+
+这是一套基于 WhatsApp SDK 开发的 web 控制端，可以实现对大量账号的批量操作，包括注册、登陆、养号、群发消息等。经过简单适配，本系统即可对接市面上主流的协议 SDK，比如 yowsup 或者其他私人定制的协议 SDK。
+
+### 如何联系
+
+QQ: 8O94O528（请将O替换为数字0）
+E-mail: whatsappsdk@qq.com
+
+### 详细描述
 
 本套系统包含：
 * 基于 whatsapp 安卓手机版逆向出来的纯协议版 SDK，提供socket 以及 http 接口，可实现单机高并发高负载。
