@@ -12,7 +12,7 @@ WhatsApp-Web is a web application based on the WhatsApp-SDK-Nodejs. This applica
 
 只要您有合适的号源以及客户订单，那么使用本系统即可立即开始群发，开始您的赚钱之路。
 
-whatsapp版本：2.21.11.18 安卓版 （2021 年 6 月 22 日更新）
+whatsapp版本：2.22.21.71 安卓版 （2022 年 10 月 04 日更新）
 
 源码或技术交流请联系QQ：8O94O528（请将O替换为数字0）
 
